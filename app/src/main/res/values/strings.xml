@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Easy Calc</string>
+    <string name="fnum">Enter 1st number</string>
+    <string name="snum">Enter 2nd number</string>
+    <string name="txt">0</string>
+    <string name="btnadd">+</string>
+    <string name="btnminus">-</string>
+    <string name="btntimes">*</string>
+    <string name="btndivide">/</string>
+    <string name="btnclear">C</string>
+    <string name="btnexit">EXIT</string>
+</resources>
