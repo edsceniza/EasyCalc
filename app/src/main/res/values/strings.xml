@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Easy Calc</string>
+    <string name="app_name">Easy Calculator</string>
     <string name="fnum">Enter 1st number</string>
     <string name="snum">Enter 2nd number</string>
     <string name="txt">0</string>
